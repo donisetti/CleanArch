@@ -4,7 +4,7 @@ Este curso apresenta os principais conceitos relacionados com a Clean Architectu
 
 Os fundamentos apresentados baseiam-se na Clean Architecture que refere-se à organização do projeto de forma que seja fácil de entender e fácil de mudar conforme o projeto cresce. Isso não acontece por acaso. É preciso um planejamento intencional para que isso ocorra.
 
-Durante o curso vamos criar uma aplicação ASP .NET Core MVC no VS 2019 Community  e também no VS Code, identificar os problemas e a seguir propor a solução aplicando os conceitos da Clean Architecture onde vamos separar os arquivos, classes projetos e componentes que podem mudar independentemente entre si.
+Durante o curso vamos criar uma aplicação ASP .NET Core MVC no VS 2022  e também no VS Code, identificar os problemas e a seguir propor a solução aplicando os conceitos da Clean Architecture onde vamos separar os arquivos, classes projetos e componentes que podem mudar independentemente entre si.
 
 Desta forma estaremos passando de uma solução monolítica contendo um único projeto para uma solução contendo 5 projetos onde a cada projeto será atribuído as responsabilidades específicas e onde vamos definir os relacionamentos entre os projetos respeitando os princípios da arquitetura limpa e a regra da dependência.
 
