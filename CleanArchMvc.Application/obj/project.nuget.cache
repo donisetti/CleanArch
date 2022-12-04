@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3f2Y5M2cJ8YvqX1fykKTzBCw0Wtry4l3DXeHxMIEaYWZmTYk039ak7r7wgClNMVStWovyaqsPuX0OK+mPqlW5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Lab\\Macoratti\\src\\CleanArch\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\donis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\donis\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\donis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
